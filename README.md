@@ -28,7 +28,7 @@
 
 - Clique em “Manage access”.
 
-![imagem](imagtyhfem/img7.jpg)
+![imagem](imagem/img7.jpg)
 
 - Digite sua senha para dar continuidade no acesso.
 
