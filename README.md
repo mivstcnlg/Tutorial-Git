@@ -18,6 +18,9 @@
 
 - Clicando em “Add file”, você poderá criar um novo arquivo “Create new file”, ou fazer upload dos arquivos “Upload files”.
 
+
+###
+
 ### - Como colocar os colaboradores no repositório
 
 ![imagem](imagem/img5.jpg)
@@ -40,7 +43,7 @@
 
 - Digite o nome de usuário no espaço, e depois clique em “Select a collaborator above”.
 
-
+###
 ### - Como habilitar o GitPages:
 
 - Para habilitar o GitPages, o repositório já precisa ter algum arquivo.
@@ -67,6 +70,8 @@
 
 ![imagem]()
 
+#
+
 # Git:
 ### - Como baixar Git:
 - Acesse o link: https://git-scm.com/download/win
@@ -75,6 +80,7 @@
 
 ![imagem]()
 
+###
 ### Como fazer processo de commit:
 
 - Como fazer processo de commit
