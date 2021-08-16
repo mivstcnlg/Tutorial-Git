@@ -70,13 +70,12 @@
 ### - Como baixar Git:
 - Acesse o link: https://git-scm.com/download/win
 
-![imagem]()
-
 - Baixe a versão que desejar.
 
 ![imagem]()
 
 ### Como fazer processo de commit:
+
 - Como fazer processo de commit
 
 ![imagem]()
