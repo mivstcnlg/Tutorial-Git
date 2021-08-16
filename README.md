@@ -18,6 +18,8 @@
 
 - Clicando em “Add file”, você poderá criar um novo arquivo “Create new file”, ou fazer upload dos arquivos “Upload files”.
 
+### - Como colocar os colaboradores no repositório
+
 ![imagem](imagem/img5.jpg)
 
 - Clique em “Settings” para acessar as configurações do seu repositório.
@@ -26,7 +28,7 @@
 
 - Clique em “Manage access”.
 
-![imagem](imagem/img7.jpg)
+![imagem](imagtyhfem/img7.jpg)
 
 - Digite sua senha para dar continuidade no acesso.
 
@@ -38,29 +40,28 @@
 
 - Digite o nome de usuário no espaço, e depois clique em “Select a collaborator above”.
 
-![imagem](imagem/img10.jpg)
 
 ### - Como habilitar o GitPages:
 
 - Para habilitar o GitPages, o repositório já precisa ter algum arquivo.
 
-![imagem](imagem/img11.jpg)
+![imagem](imagem/img10.jpg)
 
 - Clique em “Settings”.
 
-![imagem](imagem/img12.jpg)
+![imagem](imagem/img11.jpg)
 
 - Clique em “Pages”.
 
-![imagem](imagem/img13.jpg)
+![imagem](imagem/img12.jpg)
 
 - Clique em “None” para selecionar a branch. Em seguida clique em “main”.
 
-![imagem]()
+![imagem](imagem/img13.jpg)
 
 - Para salvar a configuração, clique em “Save”.
 
-![imagem]()
+![imagem](imagem/img14.jpg)
 
 - Depois de salvar, irá aparecer um aviso em azul avisando que o seu site já está publicado. O link do site estará ao lado.
 
