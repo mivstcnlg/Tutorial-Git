@@ -110,7 +110,8 @@
 
 - Digite “git push”.
 
+![imagem](imagem/img21.jpg)
 
 -  Após concluir o procedimento descrito acima é necessário apenas atualizar a página.
 
-![imagem](magem/img21.jpg)
+
