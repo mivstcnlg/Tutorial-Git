@@ -95,6 +95,7 @@
 ![imagem](imagem/img17.jpg)
 
 - Clique duas vezes em cima da variável "path"
+- 
 ![imagem](imagem/img18.jpg)
 
 -  Clique em “novo” e escreva as duas linhas como na imagem. Após adicionar clique no “ok"
