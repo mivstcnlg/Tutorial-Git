@@ -65,7 +65,7 @@
 
 - Depois de salvar, irá aparecer um aviso em azul avisando que o seu site já está publicado. O link do site estará ao lado.
 
-![imagem]()
+
 
 # Git:
 ### - Como baixar Git:
@@ -73,7 +73,6 @@
 
 - Baixe a versão que desejar.
 
-![imagem]()
 
 ### Como fazer processo de commit:
 
@@ -83,11 +82,9 @@
 
 - Digite “cd .\documents\”.
 
-![imagem]()
 
 - Estando dentro da aba documents digite “git clone” + o link do repositório.
 
-![imagem]()
 
 - Caso de um erro como o indicado na imagem. Faça o seguinte procedimento:
 
@@ -98,24 +95,21 @@
 ![imagem](imagem/img17.jpg)
 
 - Clique duas vezes em cima da variável "path"
-![imagem](imagem/img18)
+![imagem](imagem/img18.jpg)
 
-fb-  Clique em “novo” e escreva as duas linhas como na imagem. Após adicionar clique no “ok"
+-  Clique em “novo” e escreva as duas linhas como na imagem. Após adicionar clique no “ok"
 
-![imagem]()
+![imagem](imagem/img19.jpg)
 
--  Volte ao terminal e estand
+-  Volte ao terminal e estando dentro do repositório desejado digite “git add”.
 
-![imagem]()
+![imagem](imagem/img20.jpg)
 
 - Digite “git commit –m” + um nome para o commit entre aspas.
 
-![imagem]()
-
 - Digite “git push”.
 
-![imagem]()
 
 -  Após concluir o procedimento descrito acima é necessário apenas atualizar a página.
 
-![imagem]()
+![imagem](magem/img21.jpg)
